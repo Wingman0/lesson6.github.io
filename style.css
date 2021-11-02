@@ -1,0 +1,52 @@
+.f1{
+    width: 700px; 
+    height: 300px; 
+    margin: 30px;
+ }
+ .line{
+     height: 100px;
+ }
+ .f2{
+    width: 700px; 
+    height: 300px;  
+    margin: 30px; 
+ }
+.red {
+    background-color: crimson;
+}
+.green{
+    background-color:rgb(57, 180, 57);
+}
+
+.d {
+    width: 700px; 
+    height: 200px; 
+    background-color: yellow;
+}
+.small {
+    float: left;
+ width: 233px;
+ height: 100px;
+} 
+.gray {
+    background-color: gray;
+}
+.black {
+    background-color: black;
+}
+.blue {
+    background-color: blue;
+}
+.parent {
+    width: 700px;
+    height: 250px;
+    background-color: rgb(181, 226, 136);
+    margin: 30px;
+}
+.child {
+    width: 160px;
+    height: 160px;
+    float: left;
+    margin: 30px;
+    padding: 5px;
+}
